@@ -11,7 +11,7 @@
 5. In your browser (Chrome), how do you view the source of a website?
   Navigate to “View” and then click on “Developer” and then “View Source.” You also can right click and select “View Page Source.” The keyboard shortcut is Option+Command+U.
 6. List five different HTML elements and what they are used for. For example, <p></p> is a paragraph element, and it is used to represent a paragraph of text.
-  <!-- <b> : make characters bold
+  <b> : make characters bold
   <i> : make characters italic
   <sup> : make characters superscript
   <sub> : make characters subscript
