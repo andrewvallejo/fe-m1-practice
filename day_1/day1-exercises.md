@@ -11,7 +11,7 @@
 5. In your browser (Chrome), how do you view the source of a website?
   Navigate to “View” and then click on “Developer” and then “View Source.” You also can right click and select “View Page Source.” The keyboard shortcut is Option+Command+U.
 6. List five different HTML elements and what they are used for. For example, <p></p> is a paragraph element, and it is used to represent a paragraph of text.
-  <b> : make characters bold
+  <!-- <b> : make characters bold
   <i> : make characters italic
   <sup> : make characters superscript
   <sub> : make characters subscript
@@ -27,7 +27,7 @@
   <address> contain contact details for the author of the page
   <ins> shows content that has been inserted into a document
   <del> shows text that has been deleted from it.
-  <s> indicates that something is no longer accurate or relevant (but should not be deleted). -->
+  <s> indicates that something is no longer accurate or relevant (but should not be deleted).  -->
 7. What are empty elements?
   An element that only has one tag and no words in between (due to not having an open/close tag).
 8. What is semantic markup?
