@@ -10,29 +10,30 @@
   Body: Everything in this part of the html is shown inside the main browser winder
 5. In your browser (Chrome), how do you view the source of a website?
   Navigate to “View” and then click on “Developer” and then “View Source.” You also can right click and select “View Page Source.” The keyboard shortcut is Option+Command+U.
-6. List five different HTML elements and what they are used for. For example, <p></p> is a paragraph element, and it is used to represent a paragraph of text.
-  <!-- <b> : make characters bold
-  <i> : make characters italic
-  <sup> : make characters superscript
-  <sub> : make characters subscript
-  <br /> : line break
-  <hr /> : Adds horizontal rule between sections
-  <em> : indicates emphasis on a selected word that subtly changes the meaning of a sentence
-  <blockquote> indicate that a block of test is a quotation
-  <strong> indicates the content has strong importance
-  <q> short quotes inside of the paragraphs
-  <abbr> abbreviations or acronyms.
-  <cite> for making reference
-  <dfn> defining instance; indicates an instance of a new term
-  <address> contain contact details for the author of the page
-  <ins> shows content that has been inserted into a document
-  <del> shows text that has been deleted from it.
-  <s> indicates that something is no longer accurate or relevant (but should not be deleted).  -->
+6. List five different HTML elements and what they are used for. For example, p is a paragraph element, and it is used to represent a paragraph of text. <br>  
+<b> b </b>   make characters bold   <br>
+  <b> i </b>  make characters italic <br>
+  <b> sup </b> make characters superscript <br>
+  <b> sub </b> make characters subscript <br>
+  <b> br </b> line break <br>
+  <b> hr </b> Adds horizontal rule between sections <br>
+  <b> em </b> indicates emphasis on a selected word that subtly changes the meaning of a sentence
+  <b> blockquote </b> indicate that a block of test is a quotation <br>
+  <b> strong </b> indicates the content has strong importance <br>
+  <b> q </b> short quotes inside of the paragraphs <br>
+  <b> abbr </b> abbreviations or acronyms. <br>
+  <b> cite </b> for making reference <br>
+  <b> dfn </b> defining instance; indicates an instance of a new term <br>
+  <b> address </b> contain contact details for the author of the page <br>
+  <b> ins </b> shows content that has been inserted into a document <br>
+  <b> del </b> shows text that has been deleted from it. <br>
+  <b> s </b> indicates that something is no longer accurate or relevant (but should not be deleted). <br>
 7. What are empty elements?
   An element that only has one tag and no words in between (due to not having an open/close tag).
 8. What is semantic markup?
   Text elements that don't affect the structure of web pages but add extra information to the pages
 9. What are three new semantic elements introduced in HTML 5? Use page 431 in the book to find more about these new elements.
-  <!-- <header> <footer> <nav> <articles> <aside> <section> <hgroup> <figure> <figcaption> <a> -->
+
+ header footer nav articles aside section hgroup figure figcaption a
 
   Link to the pen: [Pen](https://codepen.io/andrewvallejo/pen/rNMbLNw)
